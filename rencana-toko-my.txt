@@ -1,0 +1,4 @@
+Rencana Toko My
+
+- menambahkan tempat parkir
+- menjual barang secara online
