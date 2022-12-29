@@ -3,4 +3,5 @@ Rencana Toko My
 - menambahkan tempat parkir
 - menjual barang secara online
 - menambahkan sepatu
-- tambahkan pakaian import luar negeri
+- menambahkan bunga
+
